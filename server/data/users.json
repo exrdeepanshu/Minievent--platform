@@ -1,0 +1,98 @@
+[
+  {
+    "_id": {
+      "$oid": "64a1b2c3d4e5f6a7b8c9d001"
+    },
+    "name": "Demo User",
+    "email": "demo@eventhub.com",
+    "password": "$2a$12$kgl1RdCT3qL1Yl2AqpuVOOqn1Jctv9vvrA8QM4ciLHlk39ZuKaKmG",
+    "bio": "Just here to explore EventHub!",
+    "avatar": "https://ui-avatars.com/api/?name=Demo+User&background=6D28D9&color=fff&bold=true&size=128",
+    "createdAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a1b2c3d4e5f6a7b8c9d002"
+    },
+    "name": "Alex Johnson",
+    "email": "alex@eventhub.com",
+    "password": "$2a$12$YWMyJFe2romeqAYCOlJAe.8PFIS1Iv1ZU2CacqYtDX.qKdAGihjGe",
+    "bio": "Tech enthusiast & full-stack developer. Love organising hackathons.",
+    "avatar": "https://ui-avatars.com/api/?name=Alex+Johnson&background=7C3AED&color=fff&bold=true&size=128",
+    "createdAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a1b2c3d4e5f6a7b8c9d003"
+    },
+    "name": "Priya Sharma",
+    "email": "priya@eventhub.com",
+    "password": "$2a$12$YWMyJFe2romeqAYCOlJAe.8PFIS1Iv1ZU2CacqYtDX.qKdAGihjGe",
+    "bio": "Music lover and event organiser.",
+    "avatar": "https://ui-avatars.com/api/?name=Priya+Sharma&background=EC4899&color=fff&bold=true&size=128",
+    "createdAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a1b2c3d4e5f6a7b8c9d004"
+    },
+    "name": "Marcus Williams",
+    "email": "marcus@eventhub.com",
+    "password": "$2a$12$YWMyJFe2romeqAYCOlJAe.8PFIS1Iv1ZU2CacqYtDX.qKdAGihjGe",
+    "bio": "Sports coach and fitness advocate.",
+    "avatar": "https://ui-avatars.com/api/?name=Marcus+Williams&background=10B981&color=fff&bold=true&size=128",
+    "createdAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a1b2c3d4e5f6a7b8c9d005"
+    },
+    "name": "Sophie Chen",
+    "email": "sophie@eventhub.com",
+    "password": "$2a$12$YWMyJFe2romeqAYCOlJAe.8PFIS1Iv1ZU2CacqYtDX.qKdAGihjGe",
+    "bio": "UX Designer passionate about creative workshops.",
+    "avatar": "https://ui-avatars.com/api/?name=Sophie+Chen&background=F59E0B&color=fff&bold=true&size=128",
+    "createdAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "64a1b2c3d4e5f6a7b8c9d006"
+    },
+    "name": "Rahul Patel",
+    "email": "rahul@eventhub.com",
+    "password": "$2a$12$YWMyJFe2romeqAYCOlJAe.8PFIS1Iv1ZU2CacqYtDX.qKdAGihjGe",
+    "bio": "Startup founder. Love connecting people through business events.",
+    "avatar": "https://ui-avatars.com/api/?name=Rahul+Patel&background=3B82F6&color=fff&bold=true&size=128",
+    "createdAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    },
+    "updatedAt": {
+      "$date": "2026-09-13T20:17:14.366Z"
+    }
+  }
+]
