@@ -1,0 +1,15 @@
+# Never push these
+node_modules/
+.env
+.env.local
+
+# Build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated data
+server/data/
