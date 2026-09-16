@@ -11,7 +11,7 @@ A **production-grade full-stack** event platform built with **MongoDB, Express.j
 | | URL |
 |---|---|
 | **Frontend** | `https://client-theta-swart-85.vercel.app/` |
-| **Backend API** | `https://your-api.onrender.com/api/health` |
+| **Backend API** | `https://minievent-platform-1.onrender.com/` |
 | **GitHub** | `https://github.com/exrdeepanshu/mini-event-platform` |
 
 ---
