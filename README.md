@@ -10,9 +10,9 @@ A **production-grade full-stack** event platform built with **MongoDB, Express.j
 
 | | URL |
 |---|---|
-| **Frontend** | `https://your-app.vercel.app` |
+| **Frontend** | `https://client-theta-swart-85.vercel.app/` |
 | **Backend API** | `https://your-api.onrender.com/api/health` |
-| **GitHub** | `https://github.com/your-username/mini-event-platform` |
+| **GitHub** | `https://github.com/exrdeepanshu/mini-event-platform` |
 
 ---
 
