@@ -232,7 +232,7 @@ npm run dev
 
 ### Step 4 — Open the App
 
-Visit **http://localhost:5173** in your browser. Register an account and start creating events!
+Visit **https://client-theta-swart-85.vercel.app/** in your browser. Register an account and start creating events!
 
 ---
 
